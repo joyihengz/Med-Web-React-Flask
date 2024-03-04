@@ -1,0 +1,39 @@
+/* General styling for the navigation bar */
+nav {
+    background-color: #333; /* Dark background color */
+    height: 50px; /* Set the height of the navigation bar */
+    line-height: 50px; /* Align the text vertically in the middle */
+    padding: 0 20px; /* Add some padding on the sides */
+    display: flex; /* Use flexbox for layout */
+    justify-content: space-between; /* Space out the items */
+    align-items: center; /* Align items vertically */
+    color: white; /* Text color */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Add a subtle shadow for depth */
+}
+
+/* Styling for the navigation links/buttons */
+nav a {
+    color: white; /* Text color */
+    text-decoration: none; /* Remove underline from links */
+    margin-right: 20px; /* Space out the links */
+    font-weight: bold; /* Make the text bold */
+    transition: color 0.3s ease; /* Smooth color transition on hover */
+}
+
+/* Hover effect for links/buttons */
+nav a:hover {
+    color: #ddd; /* Lighter color on hover */
+}
+
+/* Styling for the home button specifically, if needed */
+nav .home-button {
+    background-color: #4CAF50; /* Green background for emphasis */
+    padding: 10px 20px; /* Padding inside the button */
+    border-radius: 5px; /* Rounded corners for the button */
+    transition: background-color 0.3s ease; /* Smooth background transition on hover */
+}
+
+/* Hover effect for the home button */
+nav .home-button:hover {
+    background-color: #45a049; /* Darker shade of green on hover */
+}

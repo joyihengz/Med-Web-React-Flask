@@ -1,0 +1,200 @@
+[
+    
+    {
+      "first_name": "Emily",
+      "last_name": "Chen",
+      "degree": "MD",
+      "role": "Family Physician",
+      "department_id": 1
+    },
+    {
+      "first_name": "Marcus",
+      "last_name": "Johnson",
+      "degree": "DO",
+      "role": "General Practitioner",
+      "department_id": 1
+    },
+    {
+      "first_name": "Anita",
+      "last_name": "Gupta",
+      "degree": "MD",
+      "role": "Family Medicine Specialist",
+      "department_id": 1
+    },
+
+    {
+      "first_name": "Ethan",
+      "last_name": "Parker",
+      "degree": "MD",
+      "role": "Pediatrician",
+      "department_id": 2
+    },
+    {
+      "first_name": "Olivia",
+      "last_name": "Sanchez",
+      "degree": "MD",
+      "role": "Pediatric Infectious Disease Specialist",
+      "department_id": 2
+    },
+    {
+      "first_name": "Aisha",
+      "last_name": "Patel",
+      "degree": "MD",
+      "role": "Pediatric Endocrinologist",
+      "department_id": 2
+    },
+
+    {
+      "first_name": "Natalie",
+      "last_name": "Bennett",
+      "degree": "MD",
+      "role": "Cardiologist",
+      "department_id": 3
+    },
+    {
+      "first_name": "Andrew",
+      "last_name": "Kim",
+      "degree": "MD",
+      "role": "Interventional Cardiologist",
+      "department_id": 3
+    },
+    {
+      "first_name": "Rachel",
+      "last_name": "Green",
+      "degree": "MD",
+      "role": "Electrophysiologist",
+      "department_id": 3
+    },
+
+    {
+      "first_name": "Alex",
+      "last_name": "Rivera",
+      "degree": "MD",
+      "role": "Orthopedic Surgeon",
+      "department_id": 4
+    },
+    {
+      "first_name": "Sarah",
+      "last_name": "Kim",
+      "degree": "MD",
+      "role": "Spine Specialist",
+      "department_id": 4
+    },
+    {
+      "first_name": "Jordan",
+      "last_name": "Martinez",
+      "degree": "D.O.",
+      "role": "Sports Medicine Orthopedist",
+      "department_id": 4
+    },
+
+    {
+      "first_name": "Emily",
+      "last_name": "Foster",
+      "degree": "MD",
+      "role": "Obstetrician-Gynecologist",
+      "department_id": 5
+    },
+    {
+      "first_name": "Richard",
+      "last_name": "Lee",
+      "degree": "MD",
+      "role": "Maternal-Fetal Medicine Specialist",
+      "department_id": 5
+    },
+    {
+      "first_name": "Sophia",
+      "last_name": "Alvarez",
+      "degree": "MD",
+      "role": "Reproductive Endocrinologist",
+      "department_id": 5
+    },    
+
+    {
+      "first_name": "Mark",
+      "last_name": "Stevens",
+      "degree": "MD",
+      "role": "Dermatologist",
+      "department_id": 6
+    },
+    {
+      "first_name": "Alicia",
+      "last_name": "Roberts",
+      "degree": "MD",
+      "role": "Pediatric Dermatologist",
+      "department_id": 6
+    },
+    {
+      "first_name": "Kevin",
+      "last_name": "Brown",
+      "degree": "MD",
+      "role": "Cosmetic Dermatologist",
+      "department_id": 6
+    },
+
+    {
+      "first_name": "Laura",
+      "last_name": "Thompson",
+      "degree": "MD",
+      "role": "Neurologist",
+      "department_id": 7
+    },
+    {
+      "first_name": "Isaac",
+      "last_name": "Clarke",
+      "degree": "MD",
+      "role": "Pediatric Neurologist",
+      "department_id": 7
+    },
+    {
+      "first_name": "Natalie",
+      "last_name": "Brooks",
+      "degree": "MD",
+      "role": "Neurology Research Specialist",
+      "department_id": 7
+    },
+    
+    {
+      "first_name": "James",
+      "last_name": "Wilson",
+      "degree": "MD",
+      "role": "Medical Oncologist",
+      "department_id": 8
+    },
+    {
+      "first_name": "Lisa",
+      "last_name": "Cuddy",
+      "degree": "MD",
+      "role": "Radiation Oncologist",
+      "department_id": 8
+    },
+    {
+      "first_name": "Eric",
+      "last_name": "Foreman",
+      "degree": "MD",
+      "role": "Hematologist-Oncologist",
+      "department_id": 8
+    },    
+    
+    {
+      "first_name": "Jessica",
+      "last_name": "Torres",
+      "degree": "MD",
+      "role": "Gastroenterologist",
+      "department_id": 9
+    },
+    {
+      "first_name": "Raj",
+      "last_name": "Patel",
+      "degree": "MD",
+      "role": "Hepatologist",
+      "department_id": 9
+    },
+    {
+      "first_name": "Lisa",
+      "last_name": "Nguyen",
+      "degree": "MD",
+      "role": "Pediatric Gastroenterologist",
+      "department_id": 9
+    }    
+]

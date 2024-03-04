@@ -1,0 +1,27 @@
+/* LogOutButton.css */
+
+.logout-button {
+  background-color: transparent; /* Transparent background */
+  padding: 10px 20px;
+  border: 2px solid white; /* Default border color and width */
+  border-radius: 5px;
+  cursor: pointer; /* Change cursor to pointer on hover */
+  color: white; /* Text color */
+  text-decoration: none; /* Remove underline */
+  font-weight: bold; /* Make the text bold */
+  transition: background-color 0.3s ease, color 0.3s ease;
+
+  display: flex; /* Use flexbox for alignment */
+  align-items: center; /* Align icon and text vertically */
+  justify-content: center; /* Center the contents */
+}
+
+.logout-button:hover {
+  color: #007bff; /* Text color on hover (blue) */
+  border-color: #007bff; /* Border color on hover (blue) */
+}
+
+.logout-icon {
+  margin-right: 8px; /* Add some space between the icon and text */
+  /* Additional styles for the SVG icon */
+}

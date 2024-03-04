@@ -1,0 +1,68 @@
+.patient-profile {
+  font-family: Arial, sans-serif;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+  
+.patient-profile .section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+
+  width: 80%;
+}
+
+.patient-profile .section-header {
+  font-size: 18px;
+  margin-bottom: 10px;
+}  
+  
+.patient-profile .box {
+  width: 48%;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-right: 2%;
+}
+
+.patient-profile .box:last-child {
+  margin-right: 0;
+}
+
+.patient-profile .overview-column {
+  display: inline-block;
+  vertical-align: top;
+  width: 45%; /* Adjust the width as needed */
+  padding: 0 1%; /* Providing some padding for spacing */
+  text-align: left;
+}  
+
+.patient-profile .overview-column img {
+  width: 100px;
+}
+  
+.patient-profile .table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+  
+.patient-profile .table th, .patient-profile .table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+  
+.patient-profile .table th {
+  background-color: #f4f4f4;
+}
+  
+
+.patient-profile .file-link {
+  color: blue;
+  text-decoration: none;
+}
+  

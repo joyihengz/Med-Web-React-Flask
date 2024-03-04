@@ -1,0 +1,23 @@
+.about-page {
+    margin: auto;
+    max-width: 800px;
+    padding: 20px;
+    text-align: justify;
+}
+
+.about-page h1 {
+    color: #333; /* Replace with your color theme */
+    margin-bottom: 20px;
+}
+
+.about-page p {
+    color: #333333; /* Replace with your color theme */
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+.about-page span {
+    background-color: #eaeaea; /* Replace with your color theme */
+    border-radius: 5px;
+    font-family: 'Roboto Mono', monospace;
+}

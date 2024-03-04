@@ -1,0 +1,421 @@
+.PatientAccess {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .PatientAccess .div {
+    background-color: #ffffff;
+    height: 2000px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .PatientAccess .overlap {
+    height: 101px;
+    left: 0;
+    position: absolute;
+    top: -1px;
+    width: 1440px;
+  }
+  
+  .PatientAccess .rectangle {
+    background-color: #d9d9d9;
+    height: 100px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 1440px;
+  }
+  
+  .PatientAccess .text-wrapper {
+    color: #000000;
+    font-family: "Open Sans", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    height: 100px;
+    left: 85px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 150px;
+  }
+  
+  .PatientAccess .text-wrapper-2 {
+    color: #000000;
+    font-family: "Open Sans", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    height: 100px;
+    left: 1110px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 170px;
+  }
+  
+  .PatientAccess .overlap-group {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #d9d9d9;
+    border-radius: 10px;
+    height: 1304px;
+    left: 253px;
+    position: absolute;
+    top: 198px;
+    width: 934px;
+  }
+  
+  .PatientAccess .text-wrapper-3 {
+    color: #000000;
+    font-family: "Open Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 50px;
+    left: 95px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 174px;
+    width: 231px;
+  }
+  
+  .PatientAccess .text-wrapper-4 {
+    color: #000000;
+    font-family: "Open Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 50px;
+    left: 475px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 174px;
+    width: 231px;
+  }
+  
+  .PatientAccess .text-wrapper-5 {
+    color: #000000;
+    font-family: "Open Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 50px;
+    left: 95px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 299px;
+    width: 170px;
+  }
+  
+  .PatientAccess .text-wrapper-6 {
+    color: #000000;
+    font-family: "Open Sans", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    height: 65px;
+    left: 190px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    text-align: center;
+    top: 49px;
+    width: 550px;
+  }
+  
+  .PatientAccess .text-wrapper-7 {
+    color: #000000;
+    font-family: "Open Sans", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    height: 65px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    text-align: center;
+    top: 49px;
+    width: 75px;
+  }
+  
+  .PatientAccess .rectangle-2 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #d9d9d9;
+    border-radius: 10px;
+    height: 52px;
+    left: 94px;
+    position: absolute;
+    top: 224px;
+    width: 362px;
+
+    font-family: "Open Sans", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  
+  .PatientAccess .rectangle-3 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #d9d9d9;
+    border-radius: 10px;
+    height: 52px;
+    left: 474px;
+    position: absolute;
+    top: 224px;
+    width: 362px;
+
+    font-family: "Open Sans", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  
+  .PatientAccess .div-wrapper {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #d9d9d9;
+    border-radius: 10px;
+    height: 52px;
+    left: 96px;
+    position: absolute;
+    top: 351px;
+    width: 172px;
+
+    font-family: "Open Sans", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  
+  .PatientAccess .text-wrapper-8 {
+    color: #d9d9d9;
+    font-family: "Open Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 22px;
+    left: 10px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 14px;
+    width: 50px;
+  }
+  
+  .PatientAccess .overlap-2 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #d9d9d9;
+    border-radius: 10px;
+    height: 52px;
+    left: 286px;
+    position: absolute;
+    top: 351px;
+    width: 172px;
+
+    font-family: "Open Sans", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  
+  .PatientAccess .overlap-3 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #d9d9d9;
+    border-radius: 10px;
+    height: 52px;
+    left: 476px;
+    position: absolute;
+    top: 351px;
+    width: 362px;
+
+    font-family: "Open Sans", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  
+  .PatientAccess .text-wrapper-9 {
+    color: #d9d9d9;
+    font-family: "Open Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 22px;
+    left: 10px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 14px;
+    width: 100px;
+  }
+  
+
+  /* Style the buttons */
+  .PatientAccess .submit-btn {
+
+    height: 56px;
+    left: 382px;
+    position: absolute;
+    top: 1101px;
+    width: 170px;
+
+    background-color: transparent; /* Transparent background */
+    color: black; /* Default text color */
+    border: 3px solid black; /* Default border color and width */
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    font-size: 24px;
+    transition: color 0.3s, border-color 0.3s;
+
+    font-family: "Open Sans", Helvetica;
+  }
+  
+  .PatientAccess .submit-btn:hover {
+    color: #007bff; /* Text color on hover (blue) */
+    border-color: #007bff; /* Border color on hover (blue) */
+  }
+
+  /**/
+
+  
+  .PatientAccess .text-wrapper-11 {
+    color: #000000;
+    font-family: "Open Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 50px;
+    left: 95px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 424px;
+    width: 229px;
+  }
+  
+  .PatientAccess .rectangle-wrapper {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #d9d9d9;
+    border-radius: 10px;
+    height: 52px;
+    left: 96px;
+    position: absolute;
+    top: 476px;
+    width: 742px;
+
+    font-family: "Open Sans", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  
+  
+  .PatientAccess .text-wrapper-12 {
+    color: #000000;
+    font-family: "Open Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 50px;
+    left: 95px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 549px;
+    width: 229px;
+  }
+  
+  .PatientAccess .rectangle-5 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #d9d9d9;
+    border-radius: 10px;
+    height: 52px;
+    left: 94px;
+    position: absolute;
+    top: 599px;
+    width: 742px;
+
+    font-family: "Open Sans", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  
+  .PatientAccess .text-wrapper-13 {
+    color: #000000;
+    font-family: "Open Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 50px;
+    left: 95px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 674px;
+    width: 740px;
+  }
+  
+  .PatientAccess .rectangle-6 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #d9d9d9;
+    border-radius: 10px;
+    height: 52px;
+    left: 94px;
+    position: absolute;
+    top: 724px;
+    width: 742px;
+
+    font-family: "Open Sans", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  
+  .PatientAccess .text-wrapper-14 {
+    color: #000000;
+    font-family: "Open Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 50px;
+    left: 95px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 799px;
+    width: 500px;
+  }
+  
+  .PatientAccess .text-wrapper-15 {
+    color: #000000;
+    font-family: "Open Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 50px;
+    left: 100px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 849px;
+    width: 500px;
+  }
+  
+  .PatientAccess .text-wrapper-16 {
+    color: #000000;
+    font-family: "Open Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 50px;
+    left: 100px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 899px;
+    width: 500px;
+  }
+
+  .PatientAccess input[type=checkbox] {
+    transform: scale(2);
+  }
